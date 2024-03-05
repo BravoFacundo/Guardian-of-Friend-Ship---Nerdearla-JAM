@@ -4,6 +4,8 @@
 
 0 Gravity asteroid defender videogame. Made in Unity, C#, for the Nerdearla JAM (1 Week long).
 
+You can download and play the game on my [itch.io](https://facundo-bravo.itch.io/guardian-of-friend-ship).
+
 ## Technologies
 
 Developed using:
